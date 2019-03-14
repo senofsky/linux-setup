@@ -1,0 +1,3 @@
+Some of the custom configurations I've added:
+i3wm
+zsh
